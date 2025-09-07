@@ -1,7 +1,12 @@
 {
-    "name": "roundcube/password",
+    "name": "texxasrulez/password",
     "type": "roundcube-plugin",
     "description": "Password Change for Roundcube. Plugin adds a possibility to change user password using many methods (drivers) via Settings/Password tab.",
+    "homepage": "https://github.com/texxasrulez/password",
+	"support": {
+		"issues": "https://github.com/texxasrulez/password/issues",
+		"source": "https://github.com/texxasrulez/password"
+  },
     "license": "GPL-3.0-or-later",
     "version": "5.3",
     "authors": [
