@@ -1,0 +1,47 @@
+<?php
+// Roundcube Password plugin — Hestia driver config template (polished)
+
+$config['password_driver'] = 'hestia';
+
+$config['password_hestia'] = [
+    // Hestia API endpoint (must end with /api/)
+    'endpoint' => 'https://panel.example.com:8083/api/',
+
+    // Authentication method
+    'auth' => [
+        // Choose ONE method:
+        'type' => 'password',     // 'password' | 'hash' | 'accesskey'
+
+        // If type = 'password'
+        'user' => 'admin',
+        'pass' => 'CHANGEME',
+
+        // If type = 'hash'
+        // 'user' => 'admin',
+        // 'hash' => 'CHANGEME',
+
+        // If type = 'accesskey'
+        // 'access_key' => 'CHANGEME',
+        // 'secret_key' => 'CHANGEME',
+    ],
+
+    // Username format: Roundcube login is email-like user@domain
+    'username_is_email' => true,
+
+    // HTTP/TLS
+    'timeout'     => 10,
+    'verify_peer' => true,
+    'verify_host' => true,
+
+    // Optional: local policy guard
+    'min_length'  => 8,
+
+    // Debug (logs to logs/password). Set to false for production.
+    'debug'       => false,
+
+    // Optional: bypass owner lookup entirely
+    // 'force_owner' => 'ownername',
+];
+
+$config['password_confirm_current'] = true;
+$config['password_minimum_length']  = 8;
