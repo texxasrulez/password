@@ -7,7 +7,7 @@
 		"issues": "https://github.com/texxasrulez/password/issues",
 		"source": "https://github.com/texxasrulez/password"
   },
-    "license": "GPL-3.0-or-later",
+  "license": "GPL-3.0",
     "version": "5.3",
     "authors": [
         {
