@@ -1,13 +1,13 @@
 # Password plugin for Roundcube Plugin
 
-[![Packagist](https://img.shields.io/packagist/dt/texxasrulez/password?style=plastic&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/password)
-[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/password?style=plastic&logo=packagist&logoColor=white&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/password)
-[![Project license](https://img.shields.io/github/license/texxasrulez/password?style=plastic&labelColor=blue&color=coral)](https://github.com/texxasrulez/password/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/texxasrulez/password?style=plastic&logo=github&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/password/stargazers)
-[![issues](https://img.shields.io/github/issues/texxasrulez/password?style=plastic&labelColor=blue&color=aqua)](https://github.com/texxasrulez/password/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/texxasrulez/password?style=plastic&logo=github&logoColor=white&labelColor=blue&color=orchid)](https://github.com/texxasrulez/password/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/texxasrulez/password?style=plastic&logo=github&logoColor=white&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/password/forks)
-[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-money_please-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/texxasrulez/password?style=plastic&logo=packagist&logoColor=white&label=Downloads&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/password)
+[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/password?style=plastic&logo=packagist&logoColor=white&label=Version&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/password)
+[![Github License](https://img.shields.io/github/license/texxasrulez/password?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/password/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/password?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/password/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/password?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/password/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/texxasrulez/password?style=plastic&logo=github&logoColor=white&label=Contributors&labelColor=blue&color=orchid)](https://github.com/texxasrulez/password/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/texxasrulez/password?style=plastic&logo=github&logoColor=white&label=Forks&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/password/forks)
+[![Donate Paypal](https://img.shields.io/badge/Paypal-Money_Please!-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
 
 This is the stock Roundcube plugin with Hestia Control Panel Driver included.
 
